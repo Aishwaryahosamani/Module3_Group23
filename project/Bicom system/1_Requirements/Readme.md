@@ -29,7 +29,8 @@
 |LLR03                                    |   The system should  It shall get the battery information when the blue switch is pressed three times |
 |LLR04                                    |   The system should check the door status when the blue switch is pressed four times |
 
-
+# SWAOT
+![SWAOT](https://user-images.githubusercontent.com/88649955/157680427-c99aeb46-9a22-4a40-b566-3ec8670d67ac.JPG)
  
 
 
