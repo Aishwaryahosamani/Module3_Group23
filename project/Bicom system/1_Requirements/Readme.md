@@ -4,10 +4,6 @@
 # Identifying Features
 
 # State of Art
-# 5W's & 1H
-![bicom](https://user-images.githubusercontent.com/88649955/157691122-58a41787-9fcd-4cff-8ba2-341ae007baab.jpg)
-# SWAOT
-![SWAOT](https://user-images.githubusercontent.com/88649955/157680427-c99aeb46-9a22-4a40-b566-3ec8670d67ac.JPG)
 
 # Requirements
 
@@ -32,6 +28,9 @@
 # SWAOT
 ![SWAOT](https://user-images.githubusercontent.com/88649955/157680427-c99aeb46-9a22-4a40-b566-3ec8670d67ac.JPG)
  
+ 
+ # 5W's & 1H
+![bicom](https://user-images.githubusercontent.com/88649955/157691122-58a41787-9fcd-4cff-8ba2-341ae007baab.jpg)
 
 
 
