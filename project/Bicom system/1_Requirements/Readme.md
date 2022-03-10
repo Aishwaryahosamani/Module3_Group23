@@ -1,5 +1,6 @@
 # 5W's & 1H
-![5W 1H](https://user-images.githubusercontent.com/88649955/157680276-adab8fe9-17f8-4581-9e32-d4df3ce0ce7e.jpg)
+![5W 1H](https://user-images.githubusercontent.com/88649955/157683256-780369c9-0b86-41cb-a393-5002574cf2ee.jpg)
+
 # SWAOT
 ![SWAOT](https://user-images.githubusercontent.com/88649955/157680427-c99aeb46-9a22-4a40-b566-3ec8670d67ac.JPG)
 
