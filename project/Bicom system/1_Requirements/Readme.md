@@ -1,5 +1,9 @@
-# Description
-  In this project we want to Demonostrate   Remote key less(entry).This system is used for checking window status,checkinh alarm status,battery information and door status.
+# Bicom system
+
+# Description 
+ 
+  Bicom system is the extension of the unidirectional RKE to bidirectional ke system.
+  This system is used for checking window status,checkinh alarm status,battery information and door status.
 
  To understand this concept clearly we use led concept.
 * For checking window status all the leds on.
