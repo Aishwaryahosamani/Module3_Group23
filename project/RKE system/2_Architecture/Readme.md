@@ -1,3 +1,6 @@
+# Behavioral Diagram
+
+![image](https://user-images.githubusercontent.com/46986941/157895082-b0d00e0e-e787-4d1e-b731-093e3c25fd33.png)
 
 # Structural diagram
 
