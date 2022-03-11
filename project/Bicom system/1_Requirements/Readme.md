@@ -1,4 +1,20 @@
 # Description
+  In this project we want to Demonostrate   Remote key less(entry).This system is used for checking window status,checkinh alarm status,battery information and door status.
+
+ To understand this concept clearly we use led concept.
+* For checking window status all the leds on.
+* For checking alarm status all the leds will off.
+* For car battery information  all the leds will on and works in clockwise direction.
+* For door status all the leds will  works in anticlockwise direction.  
+
+
+# Identifying Features
+* If we click Button  for once  the  system will print window status.
+* If we click Button  for twice the system print the alarm status  .
+* If we click Button for three times the system will get the battery information.
+* If we click Button for Four times the  it will  check the door status .
+
+
 
 
 # Identifying Features
