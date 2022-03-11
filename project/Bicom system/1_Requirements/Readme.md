@@ -15,8 +15,6 @@
 * If we click Button for Four times the  it will  check the door status .
 
 
-# State of Art
-
 # Requirements
 
 # High Level Requirements
