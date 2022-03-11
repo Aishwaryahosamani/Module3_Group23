@@ -78,4 +78,8 @@ to understand this concept clearly we use led concept.
 |TID_04|Approach Light|Press Button"4 Times"|All LED's "On Anti-Clockwise"|All LED's "On Anti-Clockwise"|DONE :white_check_mark:|
 
 
-
+# Applications
+* The point of the project is to use a wireless key to control the system.
+* Machine security, as well as when users want to secure their cars, will be aided by wireless keys.
+* We can make use of vehicle parking spaces.
+* RKEs are also used to control entry to premises and specific areas of buildings, such as garages.
