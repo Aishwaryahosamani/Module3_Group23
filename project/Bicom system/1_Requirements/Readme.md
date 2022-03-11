@@ -9,15 +9,11 @@
 
 
 # Identifying Features
-* If we click Button  for once  the  system will print window status.
-* If we click Button  for twice the system print the alarm status  .
+* If we click Button  for once  the  system will check window status.
+* If we click Button  for twice the system will check the alarm status  .
 * If we click Button for three times the system will get the battery information.
 * If we click Button for Four times the  it will  check the door status .
 
-
-
-
-# Identifying Features
 
 # State of Art
 
