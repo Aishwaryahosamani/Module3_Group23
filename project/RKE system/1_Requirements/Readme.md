@@ -3,7 +3,7 @@ In this project we want to Demonostrate   Remote key less(entry)This system is u
 to understand this concept clearly we use led concept. 
 
 # Identifying Features
-* If we click Button  for the door will lock
+* If we click Button  for once  the door will lock
 * If we click Button  for Twice door wiil unlock.
 * If we click Button for three times it will activate the alaram.
 * If we click Button for Four times the focus light will approach.
