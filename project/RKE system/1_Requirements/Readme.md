@@ -13,9 +13,6 @@ to understand this concept clearly we use led concept.
 * If we click Button for three times it will activate the alaram.
 * If we click Button for Four times the  it will  activate if appraoch light .
 
-
-# State of Art
-
 # Requirements
 
 # High Level Requirements
