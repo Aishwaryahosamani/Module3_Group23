@@ -5,9 +5,7 @@ to understand this concept clearly we use led concept.
 * For unlocking all the leds will off.
 * For Alaram all the leds will on and works in clockwise direction.
 * For approaach all the leds will works in anticlockwise direction.  
-*
-*
-*
+
 
 # Identifying Features
 * If we click Button  for once  the door will lock
