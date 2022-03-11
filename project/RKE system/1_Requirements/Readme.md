@@ -11,7 +11,7 @@ to understand this concept clearly we use led concept.
 * If we click Button  for once  the door will lock
 * If we click Button  for Twice door wiil unlock.
 * If we click Button for three times it will activate the alaram.
-* If we click Button for Four times the  it will  activate the alaram
+* If we click Button for Four times the  it will  activate if appraoch light .
 
 
 # State of Art
