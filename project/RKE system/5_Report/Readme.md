@@ -1,6 +1,6 @@
 # Remote Keyless Entry System
 
-# Description
+## Description
 In this project we want to Demonostrate   Remote key less(entry).This system is used for locking,unlocking,alaram activation/deactivation and light approach any one occurs.
 to understand this concept clearly we use led concept.
 * For locking all the leds on.
@@ -9,15 +9,15 @@ to understand this concept clearly we use led concept.
 * For approaach all the leds will  works in anticlockwise direction.  
 
 
-# Identifying Features
+## Identifying Features
 * If we click Button  for once  the door will lock
 * If we click Button  for Twice door wiil unlock.
 * If we click Button for three times it will activate the alaram.
 * If we click Button for Four times the  it will  activate if appraoch light .
 
-# Requirements
+## Requirements
 
-## **High Level Requirements**
+### **High Level Requirements**
  
 |ID|DESCRIPTION|
 |---|---
@@ -26,7 +26,7 @@ to understand this concept clearly we use led concept.
 |HLR03|It shall activate/deactivate the alarm|
 |HLR04|It shall approach the light|
 
-## **Low Level Requirements**
+### **Low Level Requirements**
 
 |ID|DESCRIPTION|
 |---|---
@@ -35,30 +35,30 @@ to understand this concept clearly we use led concept.
 |LLR03|The system should activate the alarm when the blue switch is pressed three times |
 |LLR04|The system should approach the light when the blue switch is pressed four times |
 
-# SWOT
+## SWOT
 ![SWAOT](https://user-images.githubusercontent.com/88649955/157680427-c99aeb46-9a22-4a40-b566-3ec8670d67ac.JPG).
 
-# 5W's & 1H
+## 5W's & 1H
 ![5W 1H](https://user-images.githubusercontent.com/88649955/157690554-da8ae9de-a74f-46e2-b968-8b0971c9c203.jpg).
+# Architecture
 
-
-# Block Diagram
+### Block Diagram
 ![Block diagram](https://user-images.githubusercontent.com/98881131/157912626-98c60d4c-fe4d-4214-8077-cafe62e8f2ff.png)
 
 
 
 
-# Behavioral Diagram
+### Behavioral Diagram
 
 ![image](https://user-images.githubusercontent.com/46986941/157895082-b0d00e0e-e787-4d1e-b731-093e3c25fd33.png)
 
-# Structural diagram
+### Structural diagram
 
 ![image](https://user-images.githubusercontent.com/46986941/157892965-de839614-291e-4d7c-8ef7-73d6994904c8.png)
 
 # **TESTPLAN AND OUTPUT**
 
-## **HIGH LEVEL TEST PLAN**
+### **HIGH LEVEL TEST PLAN**
 
 |Test_ID|Description|Input|Expected O/P|Actual O/P|Status|
 ---|---|---|---|---|---|
@@ -68,7 +68,7 @@ to understand this concept clearly we use led concept.
 |TID_04|Approach Light|Press Button"4 Times"|Approch Light|Approch Light|DONE :white_check_mark:|
 
 
-## **LOW LEVEL TEST PLAN**
+### **LOW LEVEL TEST PLAN**
 
 |Test_ID|Description|Input|Expected O/P|Actual O/P|Status|
 ---|---|---|---|---|---|
