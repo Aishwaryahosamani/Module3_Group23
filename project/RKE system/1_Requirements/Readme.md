@@ -1,6 +1,13 @@
 # Description
 In this project we want to Demonostrate   Remote key less(entry).This system is used for locking,unlocking,alaram activation/deactivation and light approach any one occurs.
-to understand this concept clearly we use led concept. 
+to understand this concept clearly we use led concept.
+* For locking all the leds on.
+* For unlocking all the leds will off.
+* For Alaram all the leds will on and works in clockwise direction.
+* For approaach all the leds will works in anticlockwise direction.  
+*
+*
+*
 
 # Identifying Features
 * If we click Button  for once  the door will lock
