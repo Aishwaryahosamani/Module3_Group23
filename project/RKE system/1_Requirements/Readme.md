@@ -1,5 +1,5 @@
 # Description
-In this project we want to Demonostrate   Remote key less(entry)This system is used for locking,unlocking,alaram activation/deactivation and light approach any one occurs.
+In this project we want to Demonostrate   Remote key less(entry).This system is used for locking,unlocking,alaram activation/deactivation and light approach any one occurs.
 to understand this concept clearly we use led concept. 
 
 # Identifying Features
