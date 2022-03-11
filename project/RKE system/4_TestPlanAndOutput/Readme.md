@@ -4,17 +4,17 @@
 
 |Test_ID|Description|Input|Expected O/P|Actual O/P|Status|
 ---|---|---|---|---|---|
-|TD_01|Car Lock|Button_Press "1 Time"|LOCK|LOCK|Done :white_check_mark:|
-|TD_02|Car Unlock|Button_Press "2 Times"|UNLOCK|UNLOCK|Done :white_check_mark:|
-|TD_03|Alarm Activation/Deactivation|Button_Press "3 Times"|ALARM ACTIVATION/DEACTIVATION|ALARM ACTIVATION/DEACTIVATION|Done :white_check_mark:|
-|TD_04|Approach Light|Button_Press "4 Times"|APPROACH LIGHT|APPROACH LIGHT|Done :white_check_mark:|
+|TID_01|Car Lock|Press Button"1 Time"|Lock|Lock|DONE :white_check_mark:|
+|TID_02|Car Unlock|Press Button"2 Times"|Unlock|Unlock|DONE :white_check_mark:|
+|TID_03|Alarm Activation/Deactivation|Press Button"3 Times"|Alarm Activation/Deactivation|Alarm Activation/Deactivation|DONE :white_check_mark:|
+|TID_04|Approach Light|Press Button"4 Times"|Approch Light|Approch Light|DONE :white_check_mark:|
 
 
 ## **LOW LEVEL TEST PLAN**
 
 |Test_ID|Description|Input|Expected O/P|Actual O/P|Status|
 ---|---|---|---|---|---|
-|TD_01|Car Lock|Button_Press "1 Time"|All LED's "ON" & print"LOCK"|All LED's "ON" & print"LOCK"|Done :white_check_mark:|
-|TD_02|Car Unlock|Button_Press "2 Times"|All LED's "ON" & print"UNLOCK"|All LED's "ON" & print"UNLOCK"|Done :white_check_mark:|
-|TD_03|Alarm Activation/Deactivation|Button_Press "3 Times"|All LED's "ON CLOCKWISE" & print "ALARM ACTIVATION/DEACTIVATION"|All LED's "ON CLOCKWISE" & print "ALARM ACTIVATION/DEACTIVATION"|Done :white_check_mark:|
-|TD_04|Approach Light|Button_Press "4 Times"|All LED's "ON ANTI-CLOCKWISE" & print "APPROACH LIGHT"|All LED's "ON ANTI-CLOCKWISE" & print "APPROACH LIGHT"|Done :white_check_mark:|
+|TID_01|Car Lock|Press Button"1 Time"|All LED's "ON"|All LED's "ON"|DONE :white_check_mark:|
+|TID_02|Car Unlock|Press Button"2 Times"|All LED's "ON"|All LED's "ON"|DONE :white_check_mark:|
+|TID_03|Alarm Activation/Deactivation|Press Button"3 Times"|All LED's "ON CLOCKWISE"|All LED's "ON CLOCKWISE"|DONE :white_check_mark:|
+|TID_04|Approach Light|Press Button"4 Times"|All LED's "ON ANTI-CLOCKWISE"|All LED's "ON ANTI-CLOCKWISE"|DONE :white_check_mark:|
