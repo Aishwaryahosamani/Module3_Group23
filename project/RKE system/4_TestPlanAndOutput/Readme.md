@@ -1,10 +1,20 @@
+# **TESTPLAN AND OUTPUT**
 
-# Test Plan
+## **HIGH LEVEL TEST PLAN**
 
-|Test ID   |Test Case objective  |Input data   |Expected output   |
-|----------|---------------------|-------------------|---------------------------------|
-|TC-01|chcek encryption|3+4|7
-|TC-01     |lock the system    |7 & press the blue switch once |system should print lock when all led on at same time | 
-|TC_02     |unlock the system  | press the blue switch is pressed twice | system should print unlock when all led off at same time| 
-|TC_03     | alarm activation/deactivation  | press the blue switch three times |system should print alarm activation/deactivation when all led on in clockwise manner |
-|TC_04| approach light |press the blue switch four  |system should print approach light when all led on in anti-clockwise manner| 
+|Test_ID|Description|Input|Expected O/P|Actual O/P|Status|
+---|---|---|---|---|---|
+|TD_01|Car Lock|Button_Press "1 Time"|LOCK|LOCK|Done :white_check_mark:|
+|TD_02|Car Unlock|Button_Press "2 Times"|UNLOCK|UNLOCK|Done :white_check_mark:|
+|TD_03|Alarm Activation/Deactivation|Button_Press "3 Times"|ALARM ACTIVATION/DEACTIVATION|ALARM ACTIVATION/DEACTIVATION|Done :white_check_mark:|
+|TD_04|Approach Light|Button_Press "4 Times"|APPROACH LIGHT|APPROACH LIGHT|Done :white_check_mark:|
+
+
+## **LOW LEVEL TEST PLAN**
+
+|Test_ID|Description|Input|Expected O/P|Actual O/P|Status|
+---|---|---|---|---|---|
+|TD_01|Car Lock|Button_Press "1 Time"|All LED's "ON" & print"LOCK"|All LED's "ON" & print"LOCK"|Done :white_check_mark:|
+|TD_02|Car Unlock|Button_Press "2 Times"|All LED's "ON" & print"UNLOCK"|All LED's "ON" & print"UNLOCK"|Done :white_check_mark:|
+|TD_03|Alarm Activation/Deactivation|Button_Press "3 Times"|All LED's "ON CLOCKWISE" & print "ALARM ACTIVATION/DEACTIVATION"|All LED's "ON CLOCKWISE" & print "ALARM ACTIVATION/DEACTIVATION"|Done :white_check_mark:|
+|TD_04|Approach Light|Button_Press "4 Times"|All LED's "ON ANTI-CLOCKWISE" & print "APPROACH LIGHT"|All LED's "ON ANTI-CLOCKWISE" & print "APPROACH LIGHT"|Done :white_check_mark:|
