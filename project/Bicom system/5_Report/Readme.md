@@ -21,7 +21,7 @@
 
 ## Requirements
 
-## **High Level Requirements**
+### **High Level Requirements**
  
 |ID|DESCRIPTION|
 |---|---
@@ -30,7 +30,7 @@
 |HLR03|It shall get the battery information|
 |HLR04|It shall check the door status|
 
-## **Low Level Requirements**
+### **Low Level Requirements**
 
 |ID|DESCRIPTION|
 |---|---
@@ -46,7 +46,7 @@
  ## 5W's & 1H
 ![bicom](https://user-images.githubusercontent.com/88649955/157691122-58a41787-9fcd-4cff-8ba2-341ae007baab.jpg).
 
- BLOCK DIAGRAM
+## BLOCK DIAGRAM
 
 ![Bicom Block Diagram-3](https://user-images.githubusercontent.com/77672209/157699372-c2c46b9c-183c-48c9-a13f-2cedcc41c549.jpg)
 
