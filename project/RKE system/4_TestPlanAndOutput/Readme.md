@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # **TESTPLAN AND OUTPUT**
 
 ## **HIGH LEVEL TEST PLAN**
@@ -10,7 +9,7 @@
 |TID_02|Car Unlock|Press Button"2 Times"|Unlock|Unlock|DONE :white_check_mark:|
 |TID_03|Alarm Activation/Deactivation|Press Button"3 Times"|Alarm Activation/Deactivation|Alarm Activation/Deactivation|DONE :white_check_mark:|
 |TID_04|Approach Light|Press Button"4 Times"|Approch Light|Approch Light|DONE :white_check_mark:|
-
+|TID_05|Data Encryption|Random Press|Pattern|Pattern|DONE :white_check_mark:|
 
 ## **LOW LEVEL TEST PLAN**
 
@@ -20,4 +19,4 @@
 |TID_02|Car Unlock|Press Button"2 Times"|All LED's "Off"|All LED's "Off"|DONE :white_check_mark:|
 |TID_03|Alarm Activation/Deactivation|Press Button"3 Times"|All LED's "On Clockwise"|All LED's "On clockwise"|DONE :white_check_mark:|
 |TID_04|Approach Light|Press Button"4 Times"|All LED's "On Anti-Clockwise"|All LED's "On Anti-Clockwise"|DONE :white_check_mark:|
->>>>>>> 687911fba7d1244e20a70be137181da41632decd
+|TID_05|Data Encryption|Random Press|Pattern|Pattern|DONE :white_check_mark:|

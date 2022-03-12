@@ -68,7 +68,7 @@
 |TID_02|Alarm Status|Press Button"2 Times"|Pass|Pass|DONE :white_check_mark:|
 |TID_03|Car Battery Info|Press Button"3 Times"|Pass|Pass|DONE :white_check_mark:|
 |TID_04|Door Status|Press Button"4 Times"|Pass|Pass|DONE :white_check_mark:|
-
+|TID_05|Data Encryption|Random Press|Pattern|Pattern|DONE :white_check_mark:|
 
 ### **LOW LEVEL TEST PLAN**
 
@@ -78,7 +78,7 @@
 |TID_02|Alarm Status|Press Button"2 Times"|All LED's "Off"|All LED's "Off"|DONE :white_check_mark:|
 |TID_03|Car Battery Info|Press Button"3 Times"|All LED's "On Clockwise"|All LED's "On Clockwise"|DONE :white_check_mark:|
 |TID_04|Door Status|Press Button"4 Times"|All LED's "On Anti-Clockwise"|All LED's "On Anti-Clockwise"|DONE :white_check_mark:|
-
+|TID_05|Data Encryption|Random Press|Pattern|Pattern|DONE :white_check_mark:|
 
 
 

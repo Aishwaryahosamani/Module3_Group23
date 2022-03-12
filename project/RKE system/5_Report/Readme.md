@@ -66,7 +66,7 @@ to understand this concept clearly we use led concept.
 |TID_02|Car Unlock|Press Button"2 Times"|Unlock|Unlock|DONE :white_check_mark:|
 |TID_03|Alarm Activation/Deactivation|Press Button"3 Times"|Alarm Activation/Deactivation|Alarm Activation/Deactivation|DONE :white_check_mark:|
 |TID_04|Approach Light|Press Button"4 Times"|Approch Light|Approch Light|DONE :white_check_mark:|
-
+|TID_05|Data Encryption|Random Press|Pattern|Pattern|DONE :white_check_mark:|
 
 ### **LOW LEVEL TEST PLAN**
 
@@ -76,6 +76,6 @@ to understand this concept clearly we use led concept.
 |TID_02|Car Unlock|Press Button"2 Times"|All LED's "Off"|All LED's "Off"|DONE :white_check_mark:|
 |TID_03|Alarm Activation/Deactivation|Press Button"3 Times"|All LED's "On Clockwise"|All LED's "On clockwise"|DONE :white_check_mark:|
 |TID_04|Approach Light|Press Button"4 Times"|All LED's "On Anti-Clockwise"|All LED's "On Anti-Clockwise"|DONE :white_check_mark:|
-
+|TID_05|Data Encryption|Random Press|Pattern|Pattern|DONE :white_check_mark:|
 
 
