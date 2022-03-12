@@ -1,5 +1,5 @@
 # IMAGES
-## **OUTPUT Images**
+## **Output Images**
 
 ![Page-1](https://user-images.githubusercontent.com/77672209/158004641-d9c93359-c859-41dc-a366-1e50cef64111.png)
 ![page-2](https://user-images.githubusercontent.com/77672209/158004664-050d5d0b-bfbe-47d7-b62e-f24cb3f02777.png)
