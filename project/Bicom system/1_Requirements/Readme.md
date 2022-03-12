@@ -2,7 +2,7 @@
 
 ## Description 
  
-  Bicom system is the extension of the unidirectional RKE to bidirectional ke system.
+  Bicom system is the extension of the unidirectional RKE to bidirectional key system.
   This system is used for checking window status,checkinh alarm status,battery information and door status.
 
  To understand this concept clearly we use led concept.
