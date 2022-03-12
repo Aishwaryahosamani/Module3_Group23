@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # **TESTPLAN AND OUTPUT**
 
 ## **HIGH LEVEL TEST PLAN**
@@ -21,4 +20,3 @@
 |TID_03|Car Battery Info|Press Button"3 Times"|All LED's "On Clockwise"|All LED's "On Clockwise"|DONE :white_check_mark:|
 |TID_04|Door Status|Press Button"4 Times"|All LED's "On Anti-Clockwise"|All LED's "On Anti-Clockwise"|DONE :white_check_mark:|
 
->>>>>>> 687911fba7d1244e20a70be137181da41632decd
